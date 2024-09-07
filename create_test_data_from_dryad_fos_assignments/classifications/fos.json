@@ -1,0 +1,74 @@
+{
+  "Natural Sciences": {
+    "main": "Natural Sciences",
+    "sub": [
+      "Mathematics",
+      "Computer and information sciences",
+      "Physical sciences",
+      "Chemical sciences",
+      "Earth and related environmental sciences",
+      "Biological sciences",
+      "Other natural sciences"
+    ]
+  },
+  "Engineering and Technology": {
+    "main": "Engineering and Technology",
+    "sub": [
+      "Civil engineering",
+      "Electrical engineering, electronic engineering, information engineering",
+      "Mechanical engineering",
+      "Chemical engineering",
+      "Materials engineering",
+      "Medical engineering",
+      "Environmental engineering",
+      "Environmental biotechnology",
+      "Industrial biotechnology",
+      "Nano-technology",
+      "Other engineering and technologies"
+    ]
+  },
+  "Medical and health sciences": {
+    "main": "Medical and health sciences",
+    "sub": [
+      "Basic medicine",
+      "Clinical medicine",
+      "Medical and Health Sciences",
+      "Medical biotechnology",
+      "Other medical sciences"
+    ]
+  },
+  "Agricultural Sciences": {
+    "main": "Agricultural Sciences",
+    "sub": [
+      "Agriculture, forestry, and fisheries",
+      "Animal and dairy science",
+      "Veterinary science",
+      "Agricultural biotechnology",
+      "Other agricultural sciences"
+    ]
+  },
+  "Social Sciences": {
+    "main": "Social Sciences",
+    "sub": [
+      "Psychology",
+      "Economics and business",
+      "Educational sciences",
+      "Sociology",
+      "Law",
+      "Political science",
+      "Social and economic geography",
+      "Media and communications",
+      "Other social sciences"
+    ]
+  },
+  "Humanities": {
+    "main": "Humanities",
+    "sub": [
+      "History and archaeology",
+      "Languages and literature",
+      "Philosophy, ethics and religion",
+      "Arts (arts, history of arts, performing arts, music)",
+      "Other humanities"
+    ]
+  }
+}
